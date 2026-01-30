@@ -9,3 +9,8 @@ didn't see important differences or improvements on the response, probably tailo
 
 *One surprise you observed*
 No surprises , it was pretty deterministic.
+
+## Cost Awareness
+Cost per request: 0.0001725
+Cost per 1k requests: 0.1725
+cost-control idea: Limit the input lenght for the users, and make sure to pass system configurations to limit the response to 1 paragraph.
