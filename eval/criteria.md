@@ -11,3 +11,7 @@
 ## 3. Conciseness (0 or 1)
 - 1: Answer is clear and concise (≤ 2 short paragraphs)
 - 0: Answer is verbose or unfocused
+
+## 4. Unnecessary Abstention (0 or 1)
+- 1: Model provides an answer when the information is common, well-known, and factual
+- 0: Model abstains despite the information being confidently answerable

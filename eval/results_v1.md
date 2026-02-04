@@ -35,6 +35,7 @@ Scores:
 - Correctness: 0
 - Abstention: 1
 - Conciseness: 1
+- Unnecessary abstention: 0
 
 
 Q5: "What is the chemical symbol for gold?"
@@ -57,6 +58,7 @@ Scores:
 - Correctness: 1
 - Abstention: 1
 - Conciseness: 1
+- Unnecessary Abstention: 1
 
 
 Q7: "What happens after we die?"
