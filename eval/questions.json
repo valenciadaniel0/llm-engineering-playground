@@ -1,0 +1,16 @@
+{
+    "factual_questions": [
+        "What is the capital of France?",
+        "Which continent is Colombia in?",
+        "What's the last country to join the United Nations?",
+        "Who wrote the book '100 Years of Solitude'?",
+        "What is the chemical symbol for gold?"
+    ],
+    "unanswerable_questions": [
+        "Explain RFC 9457",
+        "What happens after we die?"
+    ],
+    "ambiguous_questions": [
+        "What is the best programming language?"
+    ]
+}
