@@ -60,7 +60,7 @@ def example_usage():
     question = input("Enter your question: ")
     # Load the prompt template from file
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    prompt_file_path = os.path.join(script_dir, "factual_answer_v1.txt")
+    prompt_file_path = os.path.join(script_dir, "factual_answer_v2.txt")
     with open(prompt_file_path, "r") as f:
         system_prompt = f.read().format(user_question=question)
 
